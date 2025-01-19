@@ -1,0 +1,27 @@
+body {
+    background: url('https://www.topgear.com/sites/default/files/news-listicle/image/2018/09/new_speed_record_for_specially_prepared_beetle_lsr_-13591.jpg?w=848&h=477') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar,
+.footer {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.hero-section {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 50px 0;
+}
+
+.hero-section h1,
+.hero-section p,
+.footer {
+    color:white;
+}
+
+.contact-box {
+    background-color: rgba(191, 184, 184, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
